@@ -68,7 +68,7 @@
 545253503963516928|Wed Dec 17 16:25:40 +0000 2014|Massachusetts Pharmacy Owners Arrested in Meningitis Deaths http://nyti.ms/1zw5d3G
 545235402156937217|Wed Dec 17 15:13:44 +0000 2014|For First Time, Treatment Helps Patients With Worst Kind of Stroke, Study Says http://nyti.ms/1zvSJsN
 545086317659717632|Wed Dec 17 05:21:20 +0000 2014|Well: How Exercise Changes Our DNA http://nyti.ms/1wXOPey
-545074589374881792|Wed Dec 17 04:34:43 +0000 2014|National Briefing New England: Massachusetts: Sex-Change Surgery Denied to Inmate http://nyti.ms/13aAYn0
+545074589374881792|Wed Dec 17 04:34:43 +0000 2014|New England: Massachusetts: Sex-Change Surgery Denied to Inmate http://nyti.ms/13aAYn0
 545070455196250113|Wed Dec 17 04:18:18 +0000 2014|Federal Health Exchange Sees Enrollment Flurry http://nyti.ms/1zpVLju
 545070454038614016|Wed Dec 17 04:18:17 +0000 2014|Vivek Murthy, the New Surgeon General, Isn’t Afraid to Take a Stand http://nyti.ms/13aB129
 545066190205624320|Wed Dec 17 04:01:21 +0000 2014|U.N. Secretary General to Visit Ebola-Plagued Nations http://nyti.ms/1zpVLjs
@@ -127,7 +127,7 @@
 542718642564395010|Wed Dec 10 16:33:02 +0000 2014|Worth revisiting this @bencareynyt piece on psychologists’ central role in C.I.A. interrogations. http://nyti.ms/1yA2Qda
 542714488756396033|Wed Dec 10 16:16:31 +0000 2014|For Many With Breast Cancer, Shorter Radiation Treatment Is Just as Effective, Study Finds http://nyti.ms/1IAAd7K
 542668384161529858|Wed Dec 10 13:13:19 +0000 2014|Well: Got a Minute? Let’s Work Out http://nyti.ms/1ul7gmH
-542551171916124160|Wed Dec 10 05:27:34 +0000 2014|National Briefing Health: Nearly 2,000 Travelers Screened for Ebola http://nyti.ms/1GhJoWQ
+542551171916124160|Wed Dec 10 05:27:34 +0000 2014|Health: Nearly 2,000 Travelers Screened for Ebola http://nyti.ms/1GhJoWQ
 542551170993364993|Wed Dec 10 05:27:33 +0000 2014|Special K, a Hallucinogen, Raises Hopes and Concerns as a Treatment for Depression http://nyti.ms/1GhJqOs
 542453124116410368|Tue Dec 09 22:57:57 +0000 2014|Overdoses involving prescription drugs are a leading cause of accidental death in the United States. http://nyti.ms/1uj8yPe
 542452019126996993|Tue Dec 09 22:53:34 +0000 2014|RT @UpshotNYT: Obamacare is not one-size-fits-all and here's why: http://nyti.ms/1yx9s0S http://twitter.com/UpshotNYT/status/542432794136178688/photo/1
@@ -254,7 +254,7 @@
 538178543294107648|Fri Nov 28 03:52:18 +0000 2014|Despite Aid Push, Ebola Is Raging in Sierra Leone http://nyti.ms/1zBDAoL
 538046511943536640|Thu Nov 27 19:07:39 +0000 2014|Study Details Presidents’ Paths From Power to Dusty Corner of Cultural Memory http://nyti.ms/1uZjIg2
 538029842319810560|Thu Nov 27 18:01:25 +0000 2014|Drug Maker Gave Large Payments to Doctors With Troubled Track Records  http://nyti.ms/1HJ1QuU
-537838075242881024|Thu Nov 27 05:19:24 +0000 2014|National Briefing Health: U.S. Smoking Rate Dips Again  http://nyti.ms/1uY57S9
+537838075242881024|Thu Nov 27 05:19:24 +0000 2014|Health: U.S. Smoking Rate Dips Again  http://nyti.ms/1uY57S9
 537821388510601217|Thu Nov 27 04:13:05 +0000 2014|Wyoming Devises Plan to Expand Medicaid http://nyti.ms/1vPXoaH
 537792769264459776|Thu Nov 27 02:19:22 +0000 2014|Food for Thought: Calories on Menus: Nationwide Experiment Into Human Behavior http://nyti.ms/11VFtSQ
 537774694720892928|Thu Nov 27 01:07:33 +0000 2014|News Analysis: Without Passing a Single Law, Obama Crafts Bold Enviornmental Policy http://nyti.ms/1yiNjSj
@@ -269,7 +269,7 @@
 537480636827959296|Wed Nov 26 05:39:04 +0000 2014|RT @deborahblum: The poison writer in the holidays! My latest for @nytimes: A Warning on Nutmeg http://nyti.ms/1rpCw2E via @nytimeswell
 537476249632133121|Wed Nov 26 05:21:38 +0000 2014|Well: Why Antioxidants Don’t Belong in Your Workout http://nyti.ms/1vfSIHA
 537450035240525824|Wed Nov 26 03:37:28 +0000 2014|State Investigating Woman’s Death After Nursing Home Evacuation  http://nyti.ms/1yepDyB
-537450034275835905|Wed Nov 26 03:37:28 +0000 2014|National Briefing Health: Study Finds Most With H.I.V. Don’t Take Medicine  http://nyti.ms/1xCXD3K
+537450034275835905|Wed Nov 26 03:37:28 +0000 2014|Health: Study Finds Most With H.I.V. Don’t Take Medicine  http://nyti.ms/1xCXD3K
 537421969692819457|Wed Nov 26 01:45:57 +0000 2014|Eli Lilly Gets European Approval to Sell Trulicity, a Type 2 Diabetes Drug http://nyti.ms/1vLDNrn
 537421968707186688|Wed Nov 26 01:45:56 +0000 2014|Obama to Introduce Sweeping New Controls on Ozone Emissions http://nyti.ms/11WR9DP
 537409122166378497|Wed Nov 26 00:54:53 +0000 2014|Op-Ed Contributor: The Problem With Prostate Screening http://nyti.ms/11WFqFr
