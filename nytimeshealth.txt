@@ -810,7 +810,7 @@
 524000787379519488|Mon Oct 20 00:54:57 +0000 2014|A Word With: Richard Preston: Updating a Chronicle of Suffering: Author of ‘The Hot Zone’ Tracks Ebola’s Evolution http://nyti.ms/1wYnZ11
 523651359137337344|Sun Oct 19 01:46:27 +0000 2014|Dozens in Ohio Monitored for Possible Exposure to Nurse With Ebola http://nyti.ms/1sBddgA
 523651357514149888|Sun Oct 19 01:46:27 +0000 2014|At Service for Dallas Ebola Victim, Relatives Recall a Gentle, Generous Man http://nyti.ms/108ljnH
-523557784802295810|Sat Oct 18 19:34:37 +0000 2014|Opinionator | Couch: Why Doctors Need Stories http://nyti.ms/1wgcamN
+523557784802295810|Sat Oct 18 19:34:37 +0000 2014|Couch: Why Doctors Need Stories http://nyti.ms/1wgcamN
 523476537840906241|Sat Oct 18 14:11:47 +0000 2014|RT @nytimes: NYT's Sheri Fink is chronicling the Ebola outbreak from a clinic in Liberia. Questions for her? Include #AskNYT http://t.co/8H…
 523322186913026048|Sat Oct 18 03:58:26 +0000 2014|White House to Cut Funding for Risky Biological Study http://nyti.ms/1sSKky0
 523322183742152704|Sat Oct 18 03:58:26 +0000 2014|Fitbit Says It Will Make Changes to Address Complaints About Allergic Reactions  http://nyti.ms/1wRQ8ac
@@ -1573,7 +1573,7 @@
 508632822270025728|Sun Sep 07 15:08:09 +0000 2014|Teenagers try to avoid “green tobacco sickness” in the fields of North Carolina. http://nyti.ms/1qFy9lJ
 508423621308874753|Sun Sep 07 01:16:52 +0000 2014|Sierra Leone to Impose 3-Day Ebola Quarantine http://nyti.ms/1wcTGUB
 508096715145359360|Sat Sep 06 03:37:51 +0000 2014|New York City Reports 3 New Cases of Meningitis http://nyti.ms/1pzo8ma
-508085184764583936|Sat Sep 06 02:52:02 +0000 2014|World Briefing | Asia: Rare Outbreak of Dengue Fever in Japan http://nyti.ms/1qD2zFg
+508085184764583936|Sat Sep 06 02:52:02 +0000 2014|World Briefing Asia: Rare Outbreak of Dengue Fever in Japan http://nyti.ms/1qD2zFg
 508081364064034817|Sat Sep 06 02:36:51 +0000 2014|Two Vaccines to Protect Against Ebola Could Be Available Within Weeks  http://nyti.ms/1qD2ykB
 508081362893824001|Sat Sep 06 02:36:51 +0000 2014|Business Briefing : Warnings Issued for Keryx Dialysis Drug http://nyti.ms/1CAk67b
 508012842306772992|Fri Sep 05 22:04:34 +0000 2014|Antibodies could be harvested from the blood of those who are immune to treat new Ebola victims. http://nyti.ms/1lFSfgI
@@ -2074,7 +2074,7 @@
 498136627307630593|Sat Aug 09 16:00:01 +0000 2014|MT @celiadugger: WHO declares health emergency over Ebola outbreak. MSF criticizes effort so far as slow.  http://nyti.ms/1onEbrC
 498113977122304001|Sat Aug 09 14:30:01 +0000 2014|RT @cslnyt: "You go to wards and there are no patients" - Kenema, Sierra Leone #ebolaoutbreak  http://nyti.ms/X5BVLo
 498000728309641216|Sat Aug 09 07:00:00 +0000 2014|RT @nytDeniseGrady: Vivid Ebola story and wrenching video from Sierra Leone. 'Don't Touch The Walls' http://nyti.ms/1sDmB42
-497969325303947264|Sat Aug 09 04:55:13 +0000 2014|Neighborhood Joint | Fort Greene: Medicine Man and Mayor, Blended http://nyti.ms/1pi6oAf
+497969325303947264|Sat Aug 09 04:55:13 +0000 2014|Neighborhood Joint Fort Greene: Medicine Man and Mayor, Blended http://nyti.ms/1pi6oAf
 497964967908634625|Sat Aug 09 04:37:54 +0000 2014|A Front Line Against Ebola Runs Through Newark’s Terminal B http://nyti.ms/1pi6nfu
 497964963739471872|Sat Aug 09 04:37:53 +0000 2014|U.N. Agency Calls Ebola Outbreak an International Health Emergency http://nyti.ms/1oy66QA
 497960329251659776|Sat Aug 09 04:19:28 +0000 2014|29 States Seek Tighter E-Cigarette Regulations http://nyti.ms/1pi6nfy
@@ -3911,7 +3911,7 @@
 412450293755158528|Mon Dec 16 05:13:07 +0000 2013|New Rule to Make it Easier for Veterans to Get Health Care for Some Traumatic Injuries http://nyti.ms/1kNN1sU
 411939092575047680|Sat Dec 14 19:21:47 +0000 2013|The Selling of Attention Deficit Disorder http://nyti.ms/JrN4PV
 411744452827697152|Sat Dec 14 06:28:22 +0000 2013|Jack Fishman, Who Helped Develop a Drug to Treat Overdoses, Dies at 83 http://nyti.ms/1gxdCwM
-411739094046478336|Sat Dec 14 06:07:04 +0000 2013|World Briefing | Asia: Pakistan: Vaccine Teams Attacked http://nyti.ms/1gxbcyh
+411739094046478336|Sat Dec 14 06:07:04 +0000 2013|World Briefing Asia: Pakistan: Vaccine Teams Attacked http://nyti.ms/1gxbcyh
 411610857458909184|Fri Dec 13 21:37:30 +0000 2013|The New Old Age Blog: A Federal Proposal for Paid Family Leave http://nyti.ms/1jYu21d
 411548218808619008|Fri Dec 13 17:28:36 +0000 2013|Well: Nuts About Greens http://nyti.ms/Jnlwet
 411534889146531841|Fri Dec 13 16:35:38 +0000 2013|Sugar or fat? What's the sinful part of your favorite dessert that makes you over-indulge? http://nyti.ms/18GwXDS
@@ -4201,7 +4201,7 @@
 397101317656944640|Sun Nov 03 20:41:46 +0000 2013|Herbal Supplements Are Often Not What They Seem http://nyti.ms/17Ghsif
 396847542916620288|Sun Nov 03 03:53:21 +0000 2013|That Other Big Afghan Crisis, the Growing Army of Addicts http://nyti.ms/17A4VyK
 396501160737374208|Sat Nov 02 04:56:58 +0000 2013|In Practice: Health Exchange: A One-Month Checkup http://nyti.ms/19YmdTS
-396485343157186561|Sat Nov 02 03:54:06 +0000 2013|Business Briefing | Regulatory News: F.D.A. Clears New Cancer-Fighting Drug From Roche http://nyti.ms/19YhmlF
+396485343157186561|Sat Nov 02 03:54:06 +0000 2013|Business Briefing Regulatory News: F.D.A. Clears New Cancer-Fighting Drug From Roche http://nyti.ms/19YhmlF
 396354634736222208|Fri Nov 01 19:14:43 +0000 2013|Well: You’re Going to Need a Bigger Bowl http://nyti.ms/Htczir
 396310199134617600|Fri Nov 01 16:18:09 +0000 2013|The New Old Age Blog: Dental Coverage on the Insurance Exchanges http://nyti.ms/Ht1xtt
 396305155898892288|Fri Nov 01 15:58:06 +0000 2013|RT @celiadugger: Many are losing their health insurance policies. Impact mixed. http://nyti.ms/17wgN4M
@@ -4369,7 +4369,7 @@
 388511905947869184|Fri Oct 11 03:50:31 +0000 2013|Chicken Plants in Salmonella Outbreak Can Stay Open http://nyti.ms/1hGJR8x
 388471089988632576|Fri Oct 11 01:08:19 +0000 2013|Wheelchair Racer Could Be First to Win 3 Major Marathons in a Season http://nyti.ms/GSo1Db
 388471089032331265|Fri Oct 11 01:08:19 +0000 2013|Blue Cross Plans Jump to an Early Lead http://nyti.ms/1guN6SQ
-388448448166785024|Thu Oct 10 23:38:21 +0000 2013|World Briefing | Africa: Rabies Deaths Linked to Cost of Vaccine http://nyti.ms/1g3ONsT
+388448448166785024|Thu Oct 10 23:38:21 +0000 2013|World Briefing Africa: Rabies Deaths Linked to Cost of Vaccine http://nyti.ms/1g3ONsT
 388345733469835265|Thu Oct 10 16:50:12 +0000 2013|Can members of the eating disorders community and binge eaters finally meet at the same table? http://nyti.ms/GHYrBi
 388328996783792128|Thu Oct 10 15:43:42 +0000 2013|Well: Trusting the Doctor http://nyti.ms/1eb9m1V
 388157165456072704|Thu Oct 10 04:20:54 +0000 2013|Well: Fat and Thin Find Common Ground http://nyti.ms/1gs6CPT
@@ -4471,7 +4471,7 @@
 382608552537227264|Tue Sep 24 20:52:42 +0000 2013|Who lives longer: married or unmarried cancer patients? http://nyti.ms/15qBk9J
 382550167229980672|Tue Sep 24 17:00:41 +0000 2013|Bringing up the subject of fertility at the time of cancer diagnosis in children. http://nyti.ms/15pFe2s
 382550069247217664|Tue Sep 24 17:00:18 +0000 2013|Well: Married Cancer Patients Live Longer http://nyti.ms/16wI1B2
-382359868172410880|Tue Sep 24 04:24:31 +0000 2013|World Briefing | Health and Science: Global Spending to Fight AIDS Has Grown Slowly, Report Finds http://nyti.ms/16ndZXj
+382359868172410880|Tue Sep 24 04:24:31 +0000 2013|World Briefing Health and Science: Global Spending to Fight AIDS Has Grown Slowly, Report Finds http://nyti.ms/16ndZXj
 382356044640706560|Tue Sep 24 04:09:19 +0000 2013|Burger King Introducing a Lower-Fat French Fry http://nyti.ms/18TKJBm
 382356043013300224|Tue Sep 24 04:09:19 +0000 2013|F.D.A. to Regulate Only Some Health Apps http://nyti.ms/16ndZXh
 382263494231732224|Mon Sep 23 22:01:33 +0000 2013|Books: ‘Knocking on Heaven’s Door’ — a Daughter’s Tale of Caring for her Parents http://nyti.ms/15mXDaV
@@ -4493,7 +4493,7 @@
 381591989353218049|Sun Sep 22 01:33:14 +0000 2013|Ad Campaigns Compete as Health Law Rollout Looms http://nyti.ms/19p0BOu
 381588190454628352|Sun Sep 22 01:18:08 +0000 2013|Quandary of Hidden Disabilities: Conceal or Reveal? http://nyti.ms/19oZlLo
 381440923307347968|Sat Sep 21 15:32:57 +0000 2013|John Kennell, Advocate of Infant Bonding, Dies at 91 http://nyti.ms/1bxRIah
-381265670576799744|Sat Sep 21 03:56:34 +0000 2013|Business Briefing | Regulatory News: F.D.A. to Require Tracking Codes in Medical Devices http://nyti.ms/15cSXK5
+381265670576799744|Sat Sep 21 03:56:34 +0000 2013|Business Briefing Regulatory News: F.D.A. to Require Tracking Codes in Medical Devices http://nyti.ms/15cSXK5
 381122132669120512|Fri Sep 20 18:26:11 +0000 2013|Well: Cooking With Miso http://nyti.ms/16Mlzbo
 381122130794250240|Fri Sep 20 18:26:11 +0000 2013|Well: The Arsenic in Our Drinking Water http://nyti.ms/16lpp76
 380912194894192640|Fri Sep 20 04:31:58 +0000 2013|Well: Ask Well: Sleep or Exercise? http://nyti.ms/1gFZzjL
@@ -4591,7 +4591,7 @@
 377317162006089728|Tue Sep 10 06:26:36 +0000 2013|Recipes for Health: Savory Oatmeal Pan Bread http://nyti.ms/1ayn4xU
 377215244445437952|Mon Sep 09 23:41:37 +0000 2013|Stem Cell Treatments Overtake Science http://nyti.ms/18JLPBx
 377215242977439744|Mon Sep 09 23:41:36 +0000 2013|The Consumer: New Concerns on Robotic Surgeries http://nyti.ms/18JXxMA
-377211459463573504|Mon Sep 09 23:26:34 +0000 2013|World Briefing | Middle East: Polio Virus Found in Jerusalem’s Sewers http://nyti.ms/18K9D8s
+377211459463573504|Mon Sep 09 23:26:34 +0000 2013|World Briefing Middle East: Polio Virus Found in Jerusalem’s Sewers http://nyti.ms/18K9D8s
 377211456821157888|Mon Sep 09 23:26:34 +0000 2013|Improving Respirator Masks to Put Fresh Air in Reach http://nyti.ms/1dWu9Jc
 377159896313380864|Mon Sep 09 20:01:41 +0000 2013|Hard Cases: Penicillin Allergies Overblown http://nyti.ms/1dW7QDe
 377148537051815936|Mon Sep 09 19:16:32 +0000 2013|Global Health: Diabetes Epidemic Grows in China http://nyti.ms/1dW3goA
@@ -4663,7 +4663,7 @@
 373165384784162816|Thu Aug 29 19:28:55 +0000 2013|Ask Well: Is It Better to Bike or Run? http://nyti.ms/17parPH
 373135852224151553|Thu Aug 29 17:31:34 +0000 2013|Well: Living With Cancer: Is It Back? http://nyti.ms/17oR09F
 373096860879036416|Thu Aug 29 14:56:38 +0000 2013|RT @bstrauch: Think you're born a germ-free blank slate? Think again. @carlzimmer explains and it's not bad news at all.http://t.co/9nkXkYA…
-372931015981158400|Thu Aug 29 03:57:37 +0000 2013|World Briefing | Asia: China: Police Search for Woman Accused of Gouging Out Boy’s Eyes http://nyti.ms/185VMsQ
+372931015981158400|Thu Aug 29 03:57:37 +0000 2013|World Briefing Asia: China: Police Search for Woman Accused of Gouging Out Boy’s Eyes http://nyti.ms/185VMsQ
 372931014026620928|Thu Aug 29 03:57:37 +0000 2013|In Congress, a Bid to Undo Dialysis Cuts http://nyti.ms/1dsnXct
 372866003614855168|Wed Aug 28 23:39:17 +0000 2013|The New Old Age: A Renewed Push for End-of-Life Discussions http://nyti.ms/16RKtFE
 372866002016808960|Wed Aug 28 23:39:17 +0000 2013|Phys Ed: Why A.C.L. Injuries Sideline So Many Athletes http://nyti.ms/17kvxRg
@@ -4764,7 +4764,7 @@
 368636155861823488|Sat Aug 17 07:31:23 +0000 2013|Poll Shows New Yorkers Are Deeply Conflicted Over Bloomberg’s Legacy http://nyti.ms/14mwVi0
 368570183788400640|Sat Aug 17 03:09:14 +0000 2013|What kind of workout does it take to be a broadway star. @patinamiller of @PippinMusical shows us her routine: http://nyti.ms/16gZkt0
 368558856214814722|Sat Aug 17 02:24:13 +0000 2013|Well: Hot Days, Cold Noodles http://nyti.ms/14mkLWm
-368555076974960640|Sat Aug 17 02:09:12 +0000 2013|World Briefing | Europe: Britain: Court Approves Vasectomy for Disabled Man http://nyti.ms/16uvCmX
+368555076974960640|Sat Aug 17 02:09:12 +0000 2013|World Briefing Europe: Britain: Court Approves Vasectomy for Disabled Man http://nyti.ms/16uvCmX
 368555074793914368|Sat Aug 17 02:09:11 +0000 2013|Christie Amends Marijuana Restrictions http://nyti.ms/14mkLWg
 368465239613779968|Fri Aug 16 20:12:13 +0000 2013|Is there danger lurking in your lipstick? http://nyti.ms/16hos2F @deborahblum
 368387712086470657|Fri Aug 16 15:04:09 +0000 2013|Well: Is There Danger Lurking in Your Lipstick? http://nyti.ms/1ePncWl
@@ -4824,7 +4824,7 @@
 366593259860013057|Sun Aug 11 16:13:38 +0000 2013|Autism’s Unexpected Link to Cancer Gene http://nyti.ms/14Ac3Hd
 366378259056828417|Sun Aug 11 01:59:18 +0000 2013|Opinion: When Doctors Discriminate http://nyti.ms/16395NI
 366378256959668224|Sun Aug 11 01:59:18 +0000 2013|Economic View: When a Co-Pay Gets in the Way of Health http://nyti.ms/1eB49yJ
-366018817610088448|Sat Aug 10 02:11:01 +0000 2013|World Briefing | The Americas: Governments in Central America Mobilize to Fight Dengue Virus http://nyti.ms/16G9eFj
+366018817610088448|Sat Aug 10 02:11:01 +0000 2013|World Briefing The Americas: Governments in Central America Mobilize to Fight Dengue Virus http://nyti.ms/16G9eFj
 366018815697498115|Sat Aug 10 02:11:00 +0000 2013|Two Firms Accused of Using Political Ties to Bilk Medicaid http://nyti.ms/17dIPg9
 365916146802769922|Fri Aug 09 19:23:02 +0000 2013|You asked. We answered. Is Pilates better than yoga for strengthening exercises? http://nyti.ms/1cQRrOq Have a question? #AskWell
 365902855082737664|Fri Aug 09 18:30:13 +0000 2013|RT @paula_span: Even if you don't have diabetes, higher blood glucose associated w/higher dementia risk. New U of Wash study. http://t.co/b…
@@ -4849,7 +4849,7 @@
 365493313018667008|Thu Aug 08 15:22:51 +0000 2013|Smoking is back, without the stigma. http://nyti.ms/1cNfk9H
 365492129033752578|Thu Aug 08 15:18:08 +0000 2013|RT @bstrauch: What does a smoker cost an employer?http://nyti.ms/1beRMZq
 365373394302152705|Thu Aug 08 07:26:20 +0000 2013|Well: The Health Tradeoffs of Entrepreneurship http://nyti.ms/146uM8W
-365300440906211329|Thu Aug 08 02:36:26 +0000 2013|World Briefing | The Americas: Haiti: Report Blames U.N. Camp for Deadly Cholera Outbreak http://nyti.ms/14lZtLw
+365300440906211329|Thu Aug 08 02:36:26 +0000 2013|World Briefing The Americas: Haiti: Report Blames U.N. Camp for Deadly Cholera Outbreak http://nyti.ms/14lZtLw
 365290772494434304|Thu Aug 08 01:58:01 +0000 2013|How UrgentRx Crashed the Party at the Cash Register http://nyti.ms/1460Eut
 365286993267130368|Thu Aug 08 01:43:00 +0000 2013|Economic Scene: For Obamacare, Some Hurdles Still Ahead http://nyti.ms/14lOn9v
 365286991123857409|Thu Aug 08 01:43:00 +0000 2013|Higher Costs Seen for Some in Congress on Health Plans http://nyti.ms/1460Euq
@@ -4968,10 +4968,10 @@
 361341869705277440|Sun Jul 28 04:26:29 +0000 2013|Obama Intends to Let Health Care Law Prove Critics Wrong by Succeeding http://nyti.ms/1cd6Atc
 361338056910979072|Sun Jul 28 04:11:20 +0000 2013|Players’ Summer Health Receives Year-Round Attention in the N.F.L. http://nyti.ms/13lThzD
 361338054411173889|Sun Jul 28 04:11:20 +0000 2013|News Analysis: The Hype Over Hospital Rankings http://nyti.ms/1cd6ykO
-361284839736999941|Sun Jul 28 00:39:52 +0000 2013|Opinionator | The Great Divide: Status and Stress http://nyti.ms/16bZtOS
+361284839736999941|Sun Jul 28 00:39:52 +0000 2013| The Great Divide: Status and Stress http://nyti.ms/16bZtOS
 361229215909154816|Sat Jul 27 20:58:51 +0000 2013|A Race to Save the Orange by Altering Its DNA http://nyti.ms/1c062YZ
-360960599070474240|Sat Jul 27 03:11:27 +0000 2013|Business Briefing | Legal News: Glaxo to Pay $45 Million to State Over Drug Marketing http://nyti.ms/13jxgk1
-360956759113859072|Sat Jul 27 02:56:12 +0000 2013|Business Briefing | Legal News: Pepsico to Stop Saying Its Naked Juice Is All Natural http://nyti.ms/14T5q4y
+360960599070474240|Sat Jul 27 03:11:27 +0000 2013|Business Briefing Legal News: Glaxo to Pay $45 Million to State Over Drug Marketing http://nyti.ms/13jxgk1
+360956759113859072|Sat Jul 27 02:56:12 +0000 2013|Business Briefing Legal News: Pepsico to Stop Saying Its Naked Juice Is All Natural http://nyti.ms/14T5q4y
 360956756999946240|Sat Jul 27 02:56:11 +0000 2013|European Regulator Finds Little Risk in Diabetes Drugs http://nyti.ms/13jxdVt
 360899239745826816|Fri Jul 26 23:07:38 +0000 2013|To avoid death by injury, live in a large city — a new study has found they are much safer than rural areas. http://nyti.ms/15l4PX3
 360886339455037440|Fri Jul 26 22:16:22 +0000 2013|The New Old Age Blog: More on Preventing Hospital Readmissions http://nyti.ms/1c9UuAY
@@ -4993,7 +4993,7 @@
 360492716871794689|Thu Jul 25 20:12:15 +0000 2013|Doctor and Patient: When the Patient Is Racist http://nyti.ms/138pzBR
 360491367660666880|Thu Jul 25 20:06:54 +0000 2013|RT @cslnyt: Aussies, say it ain't so! #obesity rates have tripled in 30 yrs. http://nyti.ms/1bjVrsz
 360491143869374465|Thu Jul 25 20:06:00 +0000 2013|RT @HannaIngber: .@nytimeshealth readers shared compelling personal &amp; prof experiences with dementia. Our comment wall: http://t.co/zf852Kt…
-360476411301072898|Thu Jul 25 19:07:28 +0000 2013|"Each wound speaks its own language. What is the splendor of one breast on one woman?"  A Quilt of Poetry | http://nyti.ms/138gyIX
+360476411301072898|Thu Jul 25 19:07:28 +0000 2013|"Each wound speaks its own language. What is the splendor of one breast on one woman?"  A Quilt of Poetry http://nyti.ms/138gyIX
 360471566871576576|Thu Jul 25 18:48:13 +0000 2013|Well: Cancer Risk Increases With Height http://nyti.ms/1461vSJ
 360456790065938432|Thu Jul 25 17:49:30 +0000 2013|Well: Living With Cancer: A Quilt of Poetry http://nyti.ms/12OdPRa
 360453927130509314|Thu Jul 25 17:38:07 +0000 2013|Readers reflect on dementia.http://nyti.ms/170pWvV
@@ -5142,9 +5142,9 @@
 355702594393481217|Fri Jul 12 14:58:01 +0000 2013|RT @nytimeswell: How did you take care of yourself while your partner was going through treatment? http://nyti.ms/10Q7xCT
 355694517942358016|Fri Jul 12 14:25:56 +0000 2013|New Limits for Arsenic Proposed by F.D.A. http://nyti.ms/14NzoUY
 355568803859546112|Fri Jul 12 06:06:23 +0000 2013|Well: Anxiety Lingers Long After Cancer http://nyti.ms/16wmNDJ
-355568801774977026|Fri Jul 12 06:06:23 +0000 2013|What? | Outdoor Roar: Behind City’s Painful Din, Culprits High and Low http://nyti.ms/12qPV1x
+355568801774977026|Fri Jul 12 06:06:23 +0000 2013|What? Outdoor Roar: Behind City’s Painful Din, Culprits High and Low http://nyti.ms/12qPV1x
 355534096262377474|Fri Jul 12 03:48:28 +0000 2013| Midwest: Illinois Court Says Parents Have Right to Know of Abortion Request http://nyti.ms/16wijwM
-355519741231767554|Fri Jul 12 02:51:26 +0000 2013|World Briefing | Europe: Abortion Bill Is Passed in Ireland http://nyti.ms/16w7vih
+355519741231767554|Fri Jul 12 02:51:26 +0000 2013|World Briefing Europe: Abortion Bill Is Passed in Ireland http://nyti.ms/16w7vih
 355519738811650048|Fri Jul 12 02:51:25 +0000 2013|GlaxoSmithKline Accused of Corruption by China http://nyti.ms/13Sgtun
 355467780952305664|Thu Jul 11 23:24:57 +0000 2013|Democrats Shrug Off Delays and Affirm Support for Health Law http://nyti.ms/13Efor8
 355463883126870016|Thu Jul 11 23:09:28 +0000 2013|Law Spoils Tobacco’s Taste, Australians Say http://nyti.ms/13Efor4
@@ -5208,7 +5208,7 @@
 354078989712764929|Mon Jul 08 03:26:24 +0000 2013|Young Girl Given Bioengineered Windpipe Dies http://nyti.ms/11u1FBT
 354078987238117380|Mon Jul 08 03:26:23 +0000 2013|Clinton Aide Joins Obama on Health Care http://nyti.ms/14BVUjz
 353756849138446338|Sun Jul 07 06:06:19 +0000 2013|Conservatives’ Aggressive Ad Campaign Seeks to Cast Doubt on Health Law http://nyti.ms/152wB8Q
-353655749580300289|Sat Jul 06 23:24:35 +0000 2013|Opinionator | Private Lives: Why I Donated My Stool http://nyti.ms/12OHtc3
+353655749580300289|Sat Jul 06 23:24:35 +0000 2013| Private Lives: Why I Donated My Stool http://nyti.ms/12OHtc3
 353407048324628482|Sat Jul 06 06:56:20 +0000 2013| Midwest: Wisconsin: Governor Signs Abortion Curbs http://nyti.ms/1a8Ly00
 353282293474930690|Fri Jul 05 22:40:37 +0000 2013|We keep telling you, put on that sunblock! Here's another reason why: http://nyti.ms/126AVWk
 353247563236909056|Fri Jul 05 20:22:36 +0000 2013|Already tired of grilled burgers and hotdogs? Fire up that barbeque and grill some pizza! http://well.blogs.nytimes.com/2013/07/05/a-new-way-to-make-pizza/?ref=health
@@ -5224,7 +5224,7 @@
 353004952672669696|Fri Jul 05 04:18:33 +0000 2013|2 Infant Formula Makers to Cut Prices After China Starts an Investigation http://nyti.ms/1aIa33M
 353004950802006017|Fri Jul 05 04:18:33 +0000 2013|British Company Is Awarded Contract to Administer Health Rollout http://nyti.ms/12gsMKo
 352699951345709056|Thu Jul 04 08:06:35 +0000 2013|China Says Foreign Makers of Baby Formula May Be Fixing Prices http://nyti.ms/14SG2aW
-352699948929794048|Thu Jul 04 08:06:35 +0000 2013|World Briefing | Europe: England: Herbal Stimulant Is Banned http://nyti.ms/12HyKs1
+352699948929794048|Thu Jul 04 08:06:35 +0000 2013|World Briefing Europe: England: Herbal Stimulant Is Banned http://nyti.ms/12HyKs1
 352696167928311808|Thu Jul 04 07:51:33 +0000 2013|Stricter Rules for Abortion Clinics Are Approved by State Senate in North Carolina  http://nyti.ms/14SG2aU
 352696165789204480|Thu Jul 04 07:51:33 +0000 2013|Yoga Practitioners Gaze at Their Inner Selfies http://nyti.ms/12HyJ7u
 352692387635662848|Thu Jul 04 07:36:32 +0000 2013|Postponing Health Rules Emboldens Republicans http://nyti.ms/14SG2aS
@@ -5264,7 +5264,7 @@
 351824120658399232|Mon Jul 01 22:06:21 +0000 2013|Well: Gay Marriage: Same, but Different http://nyti.ms/18rAObI
 351824118808719362|Mon Jul 01 22:06:21 +0000 2013|Books: Mind Over Matter: Debunking Alternative Medicines http://nyti.ms/14JiA05
 351812539513962498|Mon Jul 01 21:20:20 +0000 2013|Interactive: Notable figures' death certificates: http://nyti.ms/17Pf2PX
-351812287478239232|Mon Jul 01 21:19:20 +0000 2013|It is one of a doctor’s most important final acts in caring for a patient, filling out the death certificate. | http://www.nytimes.com/2013/07/02/health/making-the-right-call-even-in-death.html
+351812287478239232|Mon Jul 01 21:19:20 +0000 2013|It is one of a doctor’s most important final acts in caring for a patient, filling out the death certificate. http://www.nytimes.com/2013/07/02/health/making-the-right-call-even-in-death.html
 351799988394795013|Mon Jul 01 20:30:28 +0000 2013|Letters: Fostering Use of Condoms (1 Letter) http://nyti.ms/14J9kt1
 351795956901089280|Mon Jul 01 20:14:26 +0000 2013|Experts Scramble to Trace the Emergence of MERS http://nyti.ms/14J7GaF
 351785217868050432|Mon Jul 01 19:31:46 +0000 2013|The New Old Age Blog: On Becoming an ‘Orphan’ http://nyti.ms/18rm4cY
@@ -5352,7 +5352,7 @@
 348649171596750849|Sun Jun 23 03:50:14 +0000 2013|The Texas Tribune: A Policy Keeps Some Texas Doctors From the Delivery Room http://nyti.ms/19fROD0
 348649169449263104|Sun Jun 23 03:50:14 +0000 2013|Data Points: Why a Health Insurance Penalty May Look Tempting http://nyti.ms/11VRQah
 348538722934980608|Sat Jun 22 20:31:21 +0000 2013|A Louisville Clinic Races to Adapt to the Health Care Overhaul http://nyti.ms/15tMhky
-348332521903239168|Sat Jun 22 06:51:59 +0000 2013|Business Briefing | Company News: Monsanto Calls Altered Wheat in Field Suspicious http://nyti.ms/11ErtG5
+348332521903239168|Sat Jun 22 06:51:59 +0000 2013|Business Briefing Company News: Monsanto Calls Altered Wheat in Field Suspicious http://nyti.ms/11ErtG5
 348328628867710976|Sat Jun 22 06:36:31 +0000 2013| Southwest: Abortion Curbs Advance in Texas http://nyti.ms/10FCMTf
 348328626850246656|Sat Jun 22 06:36:30 +0000 2013|U.S. Moves to Seize Dietary Supplement From GNC Warehouses http://nyti.ms/11Erw4L
 348324812504064001|Sat Jun 22 06:21:21 +0000 2013|Molly: Pure, but Not So Simple http://nyti.ms/10FCMT9
@@ -5366,7 +5366,7 @@
 347938008361746432|Fri Jun 21 04:44:20 +0000 2013| Washington: F.D.A. Clears Way for Contraceptive http://nyti.ms/11qKGOL
 347929914571374593|Fri Jun 21 04:12:10 +0000 2013|Well: How the Hum of a Coffee Shop Can Boost Creativity http://nyti.ms/16ku2jT
 347905695200456704|Fri Jun 21 02:35:56 +0000 2013|Op-Ed Contributor: My Abortion, at 23 Weeks http://nyti.ms/11qyBJy
-347905693245923328|Fri Jun 21 02:35:55 +0000 2013|World Briefing | Science And Health: One-Third of Women Assaulted by a Partner, Global Report Says http://nyti.ms/16kkaqd
+347905693245923328|Fri Jun 21 02:35:55 +0000 2013|World Briefing Science And Health: One-Third of Women Assaulted by a Partner, Global Report Says http://nyti.ms/16kkaqd
 347879071201521664|Fri Jun 21 00:50:08 +0000 2013|U.S. Approves a Label for Meat From Animals Fed a Diet Free of Gene-Modified Products http://nyti.ms/11qoJQ0
 347872187648192514|Fri Jun 21 00:22:47 +0000 2013|Rules to Ban Menthol and Slim Cigarettes Divide Europeans  http://nyti.ms/11qlfNk
 347868296655282177|Fri Jun 21 00:07:19 +0000 2013|Justices Say U.S. Cannot Impose Antiprostitution Condition on AIDS Grants http://nyti.ms/16k6ICX
@@ -5564,14 +5564,14 @@
 341415541136826368|Mon Jun 03 04:46:22 +0000 2013|Well: Helping Children Play Safely in Sports http://nyti.ms/14mUrL7
 341415539236806656|Mon Jun 03 04:46:22 +0000 2013|Recipes for Health: Puréed Spinach Soup With Middle Eastern Spices http://nyti.ms/18L8sZW
 341011764735004672|Sun Jun 02 02:01:55 +0000 2013|Spared Death, Aging People With H.I.V. Struggle to Live http://nyti.ms/11jmxcd
-341007863747072001|Sun Jun 02 01:46:24 +0000 2013|Opinionator | Anxiety: House of Death http://nyti.ms/11ji614
+341007863747072001|Sun Jun 02 01:46:24 +0000 2013| Anxiety: House of Death http://nyti.ms/11ji614
 340882185135456258|Sat Jun 01 17:27:00 +0000 2013|Drug Used to Treat Kidney Cancer Is Found to Hold Off Relapses of Ovarian Cancer http://nyti.ms/18GcO1M
 340882183373869056|Sat Jun 01 17:27:00 +0000 2013|Paying Till It Hurts: Colonoscopies Explain Why U.S. Leads the World in Health Expenditures http://nyti.ms/19wMHvL
 340681353458761729|Sat Jun 01 04:08:58 +0000 2013|Dr. Dean Brooks, ‘Cuckoo’s Nest’ Doctor, Dies at 96 http://nyti.ms/18Fh3uC
-340675972363866112|Sat Jun 01 03:47:35 +0000 2013|World Briefing | Science and Health: Circumcision Device Approved by World Health Organization http://nyti.ms/18Ffzkb
+340675972363866112|Sat Jun 01 03:47:35 +0000 2013|World Briefing Science and Health: Circumcision Device Approved by World Health Organization http://nyti.ms/18Ffzkb
 340542511175049218|Fri May 31 18:57:16 +0000 2013|The New Old Age Blog: The Family Caregiver Turns Pro http://nyti.ms/14fqSuI
 340505262874042368|Fri May 31 16:29:15 +0000 2013|Well: Childbirth: Maternal Diet Affects Child's Bone http://nyti.ms/10EAdz2
-340491496866336770|Fri May 31 15:34:33 +0000 2013|Beautiful photos by @RobertSturman: The teaching of yoga in Africa. |  http://nyti.ms/11Fkwc4
+340491496866336770|Fri May 31 15:34:33 +0000 2013|Beautiful photos by @RobertSturman: The teaching of yoga in Africa.  http://nyti.ms/11Fkwc4
 340482698235768833|Fri May 31 14:59:35 +0000 2013|Well: New Tricks for Old Grains http://nyti.ms/10Es39V
 340475894646857731|Fri May 31 14:32:33 +0000 2013|RT @celiadugger: Being jobless is bad for your health, reports Sabrina Tavernise http://nyti.ms/11AVtXH
 340359889836707840|Fri May 31 06:51:35 +0000 2013|Pollution Concerns Could Douse California Beach Fires http://nyti.ms/11sgNc3
@@ -5602,7 +5602,7 @@
 339752188366696448|Wed May 29 14:36:48 +0000 2013|RT @cslnyt: "To eat less, run first." (Instead of walking) http://nyti.ms/19kOuE3
 339604328379723777|Wed May 29 04:49:16 +0000 2013|Well: Is It Better to Walk or Run? http://nyti.ms/19kSrsh
 339593574251384832|Wed May 29 04:06:32 +0000 2013|Recipes for Health: Barley and Spring Onion Soup With Fava Beans — Recipes for Health http://nyti.ms/19kNVu3
-339587271206514688|Wed May 29 03:41:29 +0000 2013|World Briefing | Europe: France: Man Dies From New SARS-Like Infection http://nyti.ms/11o3lpo
+339587271206514688|Wed May 29 03:41:29 +0000 2013|World Briefing Europe: France: Man Dies From New SARS-Like Infection http://nyti.ms/11o3lpo
 339587269172281344|Wed May 29 03:41:28 +0000 2013|Op-Ed Contributor: Addressing Medical Errors http://nyti.ms/19kLhUW
 339583476271558656|Wed May 29 03:26:24 +0000 2013|Hospitals Struggle to Get Workers to Wash Their Hands http://nyti.ms/11o0DAj
 339534111393845248|Wed May 29 00:10:15 +0000 2013|Anti-Polio Campaign Worker Shot Dead in Pakistan http://nyti.ms/19klbl8
@@ -5665,7 +5665,7 @@
 337083245537685504|Wed May 22 05:51:23 +0000 2013|Dupilumab, a New Drug, May Help Some Asthmatics http://nyti.ms/14vRXwq
 337062108162318336|Wed May 22 04:27:23 +0000 2013|Well: Can Cholesterol Drugs Undo Exercise Benefits? http://nyti.ms/11ard5Z
 337058325248233473|Wed May 22 04:12:21 +0000 2013|Chinese Bear Bile Farming Draws Charges of Cruelty http://nyti.ms/14vIFAC
-337054412184887297|Wed May 22 03:56:48 +0000 2013|World Briefing | Asia: China: New Bird Flu Virus Is Controlled, Officials Say http://nyti.ms/11amJwb
+337054412184887297|Wed May 22 03:56:48 +0000 2013|World Briefing Asia: China: New Bird Flu Virus Is Controlled, Officials Say http://nyti.ms/11amJwb
 337050536484409344|Wed May 22 03:41:24 +0000 2013|Arizona’s Ban on Abortions Struck Down in Federal Court http://nyti.ms/14vETah
 337050534735392768|Wed May 22 03:41:24 +0000 2013|Cadmium-Tainted Rice Discovered in Southern China http://nyti.ms/11amLnC
 336952278428819457|Tue May 21 21:10:58 +0000 2013|Respiratory infections and related fevers, not the use of pain relievers, may be responsible for raised asthma risk http://nyti.ms/1a1eG49
@@ -5683,7 +5683,7 @@
 336667376835760128|Tue May 21 02:18:52 +0000 2013|Overruns Forcing Lower Payments to Some Providers in Stopgap Health Program http://nyti.ms/10KpbYt
 336663476091109376|Tue May 21 02:03:22 +0000 2013|Advertising: Aiming Autism Ads at Hispanic and African-American Parents http://nyti.ms/12I07kS
 336663474182713344|Tue May 21 02:03:21 +0000 2013|Half of Hospital Admissions From Emergency Rooms http://nyti.ms/10KpbYr
-336633419448582144|Tue May 21 00:03:56 +0000 2013|“Children,” she said wearily, “can be dangerous.” | Punched and Poked by Their Pride and Joy http://nyti.ms/14KsfUm
+336633419448582144|Tue May 21 00:03:56 +0000 2013|“Children,” she said wearily, “can be dangerous.” Punched and Poked by Their Pride and Joy http://nyti.ms/14KsfUm
 336601812985597953|Mon May 20 21:58:20 +0000 2013|Well: No Quick or Easy Choices http://nyti.ms/163jSbt
 336595110223544320|Mon May 20 21:31:42 +0000 2013|Well: Younger Children Seek an Acne Cure http://nyti.ms/13CH1dE
 336595107937665024|Mon May 20 21:31:42 +0000 2013|Well: When Children Pose a Danger to Parents http://nyti.ms/163foBx
@@ -5703,7 +5703,7 @@
 336017477253341184|Sun May 19 07:16:24 +0000 2013|Shinseki Faces Mounting Criticism Over Backlog of Benefit Claims http://nyti.ms/10FG1U2
 336017475177160704|Sun May 19 07:16:23 +0000 2013|The Health Toll of Immigration http://nyti.ms/15XQe7f
 335618595625250816|Sat May 18 04:51:23 +0000 2013|For Gay Men, a Fear That Feels Familiar http://nyti.ms/10DUVKL
-335594708225101824|Sat May 18 03:16:28 +0000 2013|World Briefing | Health: Single Yellow Fever Shot Offers Lifetime Protection, W.H.O. Says http://nyti.ms/10DSlEi
+335594708225101824|Sat May 18 03:16:28 +0000 2013|World Briefing Health: Single Yellow Fever Shot Offers Lifetime Protection, W.H.O. Says http://nyti.ms/10DSlEi
 335594706236997632|Sat May 18 03:16:27 +0000 2013|Abortion Law in Arkansas Is Blocked by U.S. Judge http://nyti.ms/18RxvsC
 335510717413339136|Fri May 17 21:42:43 +0000 2013|Staying in a nonsmoking room in a hotel that allows smoking elsewhere does not prevent exposure to tobacco smoke.  http://nyti.ms/14x9hk8
 335504676650893313|Fri May 17 21:18:42 +0000 2013|Well: Focaccia Recipes for Health http://nyti.ms/12B2BBl
@@ -5729,12 +5729,12 @@
 334850581745258496|Thu May 16 01:59:34 +0000 2013|Melanoma Treatment Harnesses Immune System to Combat Cancer Cells http://nyti.ms/105T0mp
 334790626228985856|Wed May 15 22:01:20 +0000 2013|Scientists Use Cloning to Create Embryonic Stem Cells http://nyti.ms/YK9uQc
 334767212441251840|Wed May 15 20:28:17 +0000 2013|Well: Regimens: LDL Cholesterol Levels Stop Decline http://nyti.ms/YK1vCN
-334757575704846336|Wed May 15 19:50:00 +0000 2013|"It’s better not to drink and drive, but if you do, keep it under 0.05.” | Cracking Down on Drinking and Driving http://nyti.ms/18Ivgbd
+334757575704846336|Wed May 15 19:50:00 +0000 2013|"It’s better not to drink and drive, but if you do, keep it under 0.05.” Cracking Down on Drinking and Driving http://nyti.ms/18Ivgbd
 334752273546756097|Wed May 15 19:28:56 +0000 2013|Well: Childbirth: Flu Linked to Bipolar Disorder http://nyti.ms/YJUKRg
 334698410714202112|Wed May 15 15:54:54 +0000 2013|The New Old Age Blog: The ‘Long and Unacceptable’ Wait for a Veterans’ Benefit http://nyti.ms/10GDp9C
 334527864798064641|Wed May 15 04:37:12 +0000 2013|Well: Sports Injuries and Athletic Shoes http://nyti.ms/12zm1Wd
 334519808907436032|Wed May 15 04:05:12 +0000 2013|Recipes for Health: Focaccia With Sweet Onion and Caper Topping — Recipes for Health http://nyti.ms/16dsMmu
-334504863130058752|Wed May 15 03:05:48 +0000 2013|World Briefing | Middle East: Saudi Arabia: New Virus Spreads http://nyti.ms/16df82w
+334504863130058752|Wed May 15 03:05:48 +0000 2013|World Briefing Middle East: Saudi Arabia: New Virus Spreads http://nyti.ms/16df82w
 334504861049688067|Wed May 15 03:05:48 +0000 2013| South: South Carolina: Sex Surgery Unnecessary, Lawsuit Alleges http://nyti.ms/10WO7aR
 334500965443067906|Wed May 15 02:50:19 +0000 2013|N.T.S.B. Endorses Lower Legal Alcohol Limit for Drivers http://nyti.ms/16df82u
 334500962603528192|Wed May 15 02:50:18 +0000 2013|House Republicans to Vote Again on Repealing Health Care http://nyti.ms/10WO8vt
@@ -5784,7 +5784,7 @@
 333098793652338690|Sat May 11 05:58:35 +0000 2013|Judge Refuses to Drop His Order Allowing Morning-After Pill for All Ages http://nyti.ms/14cgwOa
 333095002429349888|Sat May 11 05:43:31 +0000 2013|Talk: What Cecile Richards Has Learned From Todd Akin http://nyti.ms/14cguWH
 333094997857558528|Sat May 11 05:43:30 +0000 2013|The Ethicist: Should I Protect a Patient at the Expense of an Innocent Stranger? http://nyti.ms/YLRHKF
-333091208341622785|Sat May 11 05:28:27 +0000 2013|World Briefing | Europe: Concern Over New Virus in France http://nyti.ms/14cgwOi
+333091208341622785|Sat May 11 05:28:27 +0000 2013|World Briefing Europe: Concern Over New Virus in France http://nyti.ms/14cgwOi
 333091206366113792|Sat May 11 05:28:26 +0000 2013|Safe Drinking Water Elusive for Many in California http://nyti.ms/YLRIhA
 333087313208963073|Sat May 11 05:12:58 +0000 2013|Storm Plans for Disabled Are Inadequate, U.S. Says http://nyti.ms/14cgwOg
 333087311086624768|Sat May 11 05:12:58 +0000 2013|Environmental Review to Delay Two Engineered Crops http://nyti.ms/YLRHKB
@@ -5883,7 +5883,7 @@
 330175332734873600|Fri May 03 04:21:48 +0000 2013|As Egypt Birthrate Rises, Population Policy Vanishes http://nyti.ms/107UetM
 330175330889383936|Fri May 03 04:21:47 +0000 2013|Business Owners Take Aim At Proposed Antismoking Laws At Hearing http://nyti.ms/133ZUJz
 330073935028842496|Thu May 02 21:38:53 +0000 2013|"There are days when I long for the paralegal job that once made me so miserable," @suleikajaouad Life, Interrupted: http://nyti.ms/151nWb7
-330069658654896128|Thu May 02 21:21:53 +0000 2013|“I may have trouble just sitting cross-legge, but I did full Monkey Pose recently,” she said. | Yoga After 50 http://nyti.ms/Zn6uX6
+330069658654896128|Thu May 02 21:21:53 +0000 2013|“I may have trouble just sitting cross-legge, but I did full Monkey Pose recently,” she said. Yoga After 50 http://nyti.ms/Zn6uX6
 330052018045603840|Thu May 02 20:11:47 +0000 2013|Well: The Changing Face of Medical School Admissions http://nyti.ms/11Z3i7a
 330020682341679105|Thu May 02 18:07:16 +0000 2013|Suicide Rate Rises Sharply in U.S. http://nyti.ms/ZCeSpk
 330013917269078019|Thu May 02 17:40:23 +0000 2013|Well: Safety: Air Pollution Tied to Heart Disease http://nyti.ms/11YJGAf
@@ -5964,7 +5964,7 @@
 327644460072710146|Fri Apr 26 04:45:01 +0000 2013|Democratic Senators Tell White House of Concerns About Health Care Law Rollout http://nyti.ms/Zorz7a
 327640586356146179|Fri Apr 26 04:29:37 +0000 2013|Cancer Physicians Attack High Drug Costs http://nyti.ms/11GTZZD
 327640584552583170|Fri Apr 26 04:29:37 +0000 2013|For Boston Bombing Victims, a Long, Painful Road to Recovery http://nyti.ms/Zorz76
-327581951567478785|Fri Apr 26 00:36:38 +0000 2013|“He’s the boss,” the patient said, pointing toward the ceiling and beyond | Essay on god and medicine http://nyti.ms/YVpN9G @MikkaelSekeres
+327581951567478785|Fri Apr 26 00:36:38 +0000 2013|“He’s the boss,” the patient said, pointing toward the ceiling and beyond Essay on god and medicine http://nyti.ms/YVpN9G @MikkaelSekeres
 327565342132019201|Thu Apr 25 23:30:38 +0000 2013|Are there exercises to ward off dementia? http://nyti.ms/10CKwWt @GretchenReynold
 327553262595223552|Thu Apr 25 22:42:38 +0000 2013|Why is temporary hair loss loss different from all the other losses, at least for some cancer patients? http://nyti.ms/17YqaEp
 327518030395502593|Thu Apr 25 20:22:38 +0000 2013|You've never seen a therapy comfort animal like this. http://www.slate.com/blogs/behold/2013/04/24/jen_osbourne_llama_love_follows_therapy_llamas_around_a_rehab_center_photos.html
@@ -5988,7 +5988,7 @@
 327070006401724417|Wed Apr 24 14:42:20 +0000 2013|Do you often, if guiltily, skip cooling down after exercise? Maybe you shouldn't feel so guilty. http://nyti.ms/11MHVDr @GretchenReynold
 326914982077927424|Wed Apr 24 04:26:20 +0000 2013|Recipes for Health: Farfalle With Artichokes, Peas, Favas and Onions — Recipes for Health http://nyti.ms/17QmdBz
 326914979745914880|Wed Apr 24 04:26:19 +0000 2013|Well: Do We Have to Cool Down After Exercise? http://nyti.ms/ZjUUzz
-326908410178179072|Wed Apr 24 04:00:13 +0000 2013|World Briefing | Asia: Bird Flu Spreads in China http://nyti.ms/17QfVC8
+326908410178179072|Wed Apr 24 04:00:13 +0000 2013|World Briefing Asia: Bird Flu Spreads in China http://nyti.ms/17QfVC8
 326908408118771713|Wed Apr 24 04:00:12 +0000 2013|U.S. Accuses Novartis of Providing Kickbacks http://nyti.ms/ZjQ1q6
 326904518518378496|Wed Apr 24 03:44:45 +0000 2013|Organic Avenue Says Juice and Vegan Trends are Moving Mainstream http://nyti.ms/17QfY0K
 326904516450598912|Wed Apr 24 03:44:44 +0000 2013|Smoking? Combat? Wait Until 21 to Decide, Young Recruits Say http://nyti.ms/ZjPYur
@@ -5996,7 +5996,7 @@
 326900650074071040|Wed Apr 24 03:29:23 +0000 2013|Racing to Inform Millions Unaware of New Health Coverage http://nyti.ms/ZjQ1q1
 326813136743186432|Tue Apr 23 21:41:38 +0000 2013|Twice the workout, doesn't really give you twice the benefits, says @GretchenReynold http://nyti.ms/11AW9sl
 326737779646140417|Tue Apr 23 16:42:11 +0000 2013|Ask Well: Double the Workout, Double the Benefits? http://nyti.ms/12bkEgW
-326733246752759808|Tue Apr 23 16:24:11 +0000 2013|Seniors in therapy: "I woke up to the fact that I have a mind of my own. Talk about a late bloomer." Judita Grosz | http://well.blogs.nytimes.com/2013/04/22/how-therapy-can-help-in-the-golden-years/?ref=health
+326733246752759808|Tue Apr 23 16:24:11 +0000 2013|Seniors in therapy: "I woke up to the fact that I have a mind of my own. Talk about a late bloomer." Judita Grosz http://well.blogs.nytimes.com/2013/04/22/how-therapy-can-help-in-the-golden-years/?ref=health
 326732655582388226|Tue Apr 23 16:21:50 +0000 2013|RT @nytimesscience: Motherlode Blog: Study Links Autism With Antidepressant Use During Pregnancy http://nyti.ms/ZhyEX2
 326702585375514625|Tue Apr 23 14:22:20 +0000 2013|RT @nytimes: The health consequences of the "cinnamon challenge." Spoiler: It's a bad idea http://nyti.ms/ZDX0K5
 326694888034938880|Tue Apr 23 13:51:45 +0000 2013|The New Old Age Blog: Therapy can still help http://nyti.ms/12ar4Np
@@ -6065,7 +6065,7 @@
 324698546127376384|Thu Apr 18 01:39:00 +0000 2013|Lessons From Military Surgeries Informed Treatment of Boston Victims http://nyti.ms/17HD7oZ
 324659708722032641|Wed Apr 17 23:04:41 +0000 2013|What's the best way to build endurance? Long runs or short sprints? @GretchenReynold has your answer: #Ask Well http://nyti.ms/12noSDr
 324616989148606464|Wed Apr 17 20:14:55 +0000 2013|Well: Ask Well: Long Runs vs. Sprints http://nyti.ms/13jqy3o
-324612397765636097|Wed Apr 17 19:56:41 +0000 2013|Don't feel like exercising? Blame it on your genes. | Why We're Motivated to Exercise. Or Not. http://nyti.ms/1723wMS
+324612397765636097|Wed Apr 17 19:56:41 +0000 2013|Don't feel like exercising? Blame it on your genes. Why We're Motivated to Exercise. Or Not. http://nyti.ms/1723wMS
 324607898401505281|Wed Apr 17 19:38:48 +0000 2013|New research suggest fathers can pick out their babies cries as well as mothers. http://blogs.discovermagazine.com/d-brief/2013/04/16/fathers-maternal-instinct-just-as-reliable-as-a-mothers/#.UW7KOYKZZUE h/t @DiscoverMag
 324558013786644480|Wed Apr 17 16:20:35 +0000 2013|Well: Is Organic Better? Ask a Fruit Fly http://nyti.ms/YvjMAw
 324535269955092481|Wed Apr 17 14:50:12 +0000 2013|"The decision had to be made, over and over. Should this leg be amputated? What about this one?"  http://nyti.ms/111DyoJ
@@ -6098,7 +6098,7 @@
 323894204210216963|Mon Apr 15 20:22:50 +0000 2013|Well: Trial of Chelation Therapy Shows Benefits, but Doubts Persist http://nyti.ms/YY02sM
 323890373422358528|Mon Apr 15 20:07:37 +0000 2013|Letters: Emergency Contraception (1 Letter) http://nyti.ms/Zt5WyD
 323886555418746880|Mon Apr 15 19:52:26 +0000 2013|Letters: Risks of Calcium Supplements (1 Letter) http://nyti.ms/YXYcs0
-323886401517146112|Mon Apr 15 19:51:50 +0000 2013|More fish, fewer allergies? | Eating Fish as a Child May Curb Allergies http://nyti.ms/YXhQUZ
+323886401517146112|Mon Apr 15 19:51:50 +0000 2013|More fish, fewer allergies? Eating Fish as a Child May Curb Allergies http://nyti.ms/YXhQUZ
 323855651438723072|Mon Apr 15 17:49:38 +0000 2013|The New Old Age Blog: A Montana Doctor Defends Physician-Assisted Suicide http://nyti.ms/ZsQ27n
 323830295847653378|Mon Apr 15 16:08:53 +0000 2013|Well: Safer Hospital Rooms http://nyti.ms/ZsDKff
 323830294010527744|Mon Apr 15 16:08:53 +0000 2013|Well: Really? Eating Fish as a Child May Curb Allergies http://nyti.ms/YXjUMM
@@ -6120,9 +6120,9 @@
 322904842781745153|Sat Apr 13 02:51:28 +0000 2013|Senators Make Bipartisan Push for Mental Health Care http://nyti.ms/Yyex7u
 322770747619688448|Fri Apr 12 17:58:37 +0000 2013|DNA Project Aims to Make Company’s Data Public http://nyti.ms/10QSK89
 322762662880632832|Fri Apr 12 17:26:30 +0000 2013|Well: Cracking the Walnut http://nyti.ms/XHEMZB
-322732927991558144|Fri Apr 12 15:28:20 +0000 2013|Stop sitting on that ball chair and try standing instead. |  Well: Ask Well: Ball Chairs http://nyti.ms/XHsArL
+322732927991558144|Fri Apr 12 15:28:20 +0000 2013|Stop sitting on that ball chair and try standing instead.  Well: Ask Well: Ball Chairs http://nyti.ms/XHsArL
 322732243464380416|Fri Apr 12 15:25:37 +0000 2013|Well: Ask Well: Ball Chairs http://nyti.ms/XHsArL
-322723340735365120|Fri Apr 12 14:50:14 +0000 2013|Think about cleaning your ice dispenser. | Where Germs Hide in Your Kitchen http://nyti.ms/YgNpW5
+322723340735365120|Fri Apr 12 14:50:14 +0000 2013|Think about cleaning your ice dispenser. Where Germs Hide in Your Kitchen http://nyti.ms/YgNpW5
 322576395454795777|Fri Apr 12 05:06:20 +0000 2013|Well: Where Germs Hide in Your Kitchen http://nyti.ms/ZQnDY5
 322576393374416896|Fri Apr 12 05:06:20 +0000 2013|Unsafe Practices Found at Compounding Pharmacies http://nyti.ms/ZQnFiG
 322549055299399681|Fri Apr 12 03:17:42 +0000 2013| Midwest: Indiana: Planned Parenthood Clinic Attacked http://nyti.ms/17uk0P3
@@ -6143,7 +6143,7 @@
 322027813525913600|Wed Apr 10 16:46:28 +0000 2013|Robert G. Edwards, Nobel Winner for In Vitro Fertilization, Dies at 87 http://nyti.ms/14bPXwK
 322024012458901505|Wed Apr 10 16:31:22 +0000 2013|Parents of Preemies Weren’t Told of Risks in Study http://nyti.ms/14bOu9A
 322012848291209218|Wed Apr 10 15:47:00 +0000 2013|The benefits of allowing pets in hospitals - When Best Friends Can Visit http://nyti.ms/12Jcexd
-321999972629360640|Wed Apr 10 14:55:50 +0000 2013|More reasons to exercise for your brain, from @GretchenReynold | Getting a Brain Boost Through Exercise http://nyti.ms/10Ikc9A
+321999972629360640|Wed Apr 10 14:55:50 +0000 2013|More reasons to exercise for your brain, from @GretchenReynold Getting a Brain Boost Through Exercise http://nyti.ms/10Ikc9A
 321998184073269248|Wed Apr 10 14:48:44 +0000 2013|RT @nytimes: Is there anything wrong with exercising before bedtime? http://nyti.ms/XqMkxJ
 321929690912800768|Wed Apr 10 10:16:34 +0000 2013|The New Old Age Blog: When Best Friends Can Visit http://nyti.ms/10SBrCj
 321840184498991104|Wed Apr 10 04:20:54 +0000 2013|Well: How Exercise May Help Memory http://nyti.ms/10QWp6n
@@ -6214,7 +6214,7 @@
 319565304021778433|Wed Apr 03 21:41:20 +0000 2013|Dementia Care Costs Are Soaring, Study Finds http://nyti.ms/XOpLnY
 319558834316247040|Wed Apr 03 21:15:37 +0000 2013|Financial burden for dementia care is at least as high as that for heart disease or cancer, reports @PamBelluck. http://nyti.ms/14Or7SP
 319557615438946305|Wed Apr 03 21:10:47 +0000 2013|Straw-like tubes of modified gelatin provide protection as implanted cells grow and work in the body. http://blogs.discovermagazine.com/d-brief/2013/04/02/cell-fibers-could-be-woven-into-organ-transplants-of-the-future/#.UVxiQhmZZUE
-319525182215712768|Wed Apr 03 19:01:54 +0000 2013|Mindfulness to control mind wandering? | How Meditation Might Boost Your Test Scores http://nyti.ms/ZzXah7
+319525182215712768|Wed Apr 03 19:01:54 +0000 2013|Mindfulness to control mind wandering? How Meditation Might Boost Your Test Scores http://nyti.ms/ZzXah7
 319519463571607552|Wed Apr 03 18:39:11 +0000 2013|The New Old Age Blog: How Do You Keep Track of It All? http://nyti.ms/XNP8WW
 319510361155969024|Wed Apr 03 18:03:00 +0000 2013|RT @NY4P: The art of the 7am @highlinenyc jog, via @nytimeswell - http://well.blogs.nytimes.com/2013/04/02/the-roving-runner-elevating-the-jog/
 319497673285726208|Wed Apr 03 17:12:35 +0000 2013|AIDS Vaccine Path Suggested by Study http://nyti.ms/14ENbiA
